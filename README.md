@@ -37,7 +37,15 @@ This is the basic demonstration of chosen ciphertext attack on RSA cryptosystem.
 
 **How to run :**
 
-first run bob.py than alice.py and at last eve.py
+first run **bob.py** than **alice.py** and atlast **eve.py**
+
+**command :**
+
+bob.py : python bob.py
+
+alice.py : python alice.py
+
+eve.py : python eve.py
 
 **Screenshots:**
 
